@@ -82,6 +82,7 @@ def adding_matz
         }
      }
 		 programmer_hash[:matz] = {}
+		 programmer_hash
 end
 
 def changing_alan
